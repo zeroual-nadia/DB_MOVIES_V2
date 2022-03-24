@@ -1,0 +1,77 @@
+# DBMOVIE API
+
+
+########################### Requirements ###########################################
+
+
+For development, you will need Node.js and Angular CLI in your environement.
+
+
+#### Node installation 
+
+  Just go on [official Node.js website](https://nodejs.org/) and download the installer.
+
+
+#### Angular CLI installation 
+
+      npm install -g @angular/cli
+
+
+#### Install Express ("to help us to create rest api")
+
+      npm install express
+
+
+#### Install mongoose
+
+      npm install mongoose
+
+
+#### Install body-parser
+
+      the function "req.body" doesn't transform the json directly, you have to install "npm install body-parser"
+
+
+#### Install cors ( have access from the outside to our api)
+    
+      npm install cors
+
+
+## Install bcrypt (permet de hasher les mdp c'est une methode non reversible très sécurisée)
+
+      npm install --save bcrypt
+
+
+####  Install jsonwebtoken (package pour creer des tokens et les verifier)
+        
+      npm install jsonwebtoken
+
+####  Install mongoose-unique-validator: avec la commande "npm install mongoose-unique-validator" (mongoose-unique-validator est un plugin qui ajoute une validation de pré-enregistrement pour les champs uniques dans un schéma Mongoose.pour les mail)
+
+
+
+
+########################## Running the project #####################################
+   
+    $ Node server : 
+
+      install nodemon with :  npm install -g nodemon 
+
+      In the ./Backend directory run : "nodemon serve" OR "npm start"
+          
+        
+    $ Angular server  : 
+     
+     In the ./Frontend directory run :
+
+         ng serve 
+
+
+### Swagger Documentation Api : 
+
+   You will find it on http://localhost:3000/api-docs/
+
+
+### Test unitaires:
+    
+    "npm test"
