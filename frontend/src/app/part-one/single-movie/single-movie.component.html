@@ -1,0 +1,21 @@
+<mat-spinner *ngIf="loading"></mat-spinner>
+<div *ngIf="!loading">
+  <button class="btn btn-link" (click)="onGoBack()"><< Retour</button>
+  <div class="single-thing-pane">
+    <img [src]="thing?.imageUrl" alt="">
+    <div class="single-thing-info">
+      <h1>{{ thing?.titre }}</h1>
+      <h3>synopsis : </h3>
+      <div class="frame">
+      <p>{{ thing?.synopsis }}</p>
+    </div>
+    
+      <h3>Têtes d'affiche : </h3>
+      <div class="frame">
+      <p> {{ thing?.acteurs }} </p>
+    </div>
+      <button class="btn btn-success m-1" (click)="onModify()" [disabled]="part >= 3 && userId !== thing?.userId">Modifier</button>
+      <button class="btn btn-danger m-1" (click)="onDelete()" [disabled]="part >= 3 && userId !== thing?.userId">Supprimer</button>
+    </div>
+  </div>
+</div>

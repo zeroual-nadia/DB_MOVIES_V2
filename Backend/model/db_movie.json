@@ -1,0 +1,126 @@
+[
+    {
+    "_id":"62233b61e11751bd78bd5ee5",
+    "imageUrl":"http://localhost:3000/images/parasite.jpg",
+    "synopsis":"Toute la famille de Ki-taek est au chômage. Elle s’intéresse particulièrement au train de vie de la richissime famille Park. Mais un incident se produit et les deux familles se retrouvent mêlées, sans le savoir, à une bien étrange histoire…",
+    "titre":"Parasite (2019)",
+    "acteurs":"Song Kang-ho, Lee Sun-kyun, Cho Yeo-jeong, Choi Woo-shik, Park So-dam, Jung Ji-so...",
+    "userId":"622336bf1e95ff0a07eb35d9"
+ },
+
+{
+    "_id":"62233c0ae11751bd78bd5eeb",
+        "imageUrl":"http://localhost:3000/images/SpiderMan.jpg",
+        "synopsis":"Après les évènements liés à l'affrontement avec Mystério, l'identité secrète de Spider-Man a été révélée. Il est poursuivi par le gouvernement américain, qui l'accuse du meurtre de Mystério, et est traqué par les médias. Cet évènement a également des conséquences terribles sur la vie de sa petite-amie M. J. et de son meilleur ami Ned. Désemparé, Peter Parker demande alors de l'aide au Docteur Strange. Ce dernier lance un sort pour que tout le monde oublie que Peter est Spider-Man. Mais les choses ne se passent pas comme prévu et cette action altère la stabilité de l'espace-temps. Cela ouvre le « Multivers », un concept terrifiant dont ils ne savent quasiment rien.",
+        "titre":"Spider-Man: No Way Home (2021)",
+        "acteurs":"Tom Holland, Zendaya, Benedict Cumberbatch, Jacob Batalon, Jon Favreau, Jamie Foxx",
+        "userId":"622336bf1e95ff0a07eb35d9"
+    
+},
+{
+    "_id":"62233c2ce11751bd78bd5eee",
+        "imageUrl":"http://localhost:3000/images/KingMan.jpg",
+        "synopsis":"En 1902, l'aristocrate Orlando, duc d'Oxford, perd sa femme Emily lors d'une mission humanitaire en Afrique du Sud lors de la seconde guerre des Boers ; leur jeune fils Conrad assiste lui aussi à sa mort. Douze ans plus tard, le pacifiste convaincu Orlando sent qu'un conflit mondial menace. Il tente par ailleurs de dissuader son fils, âgé de 18 ans, de s'engager dans l'armée britannique. Il a imploré son grand ami, le secrétaire d'État à la Guerre Horatio Herbert Kitchener, de bloquer sa demande d'incorporation. Aidé par ses domestiques Shola et Polly, le duc a par ailleurs créé un réseau d'espionnage mondial et se renseigne sur la menace qui plane sur l'Europe. En effet, dans l'ombre, une mystérieuse organisation souhaite renverser l'ordre mondial.",
+        "titre":"The King’s Man - Première Mission (2021)",
+        "acteurs":"Ralph Fiennes, Harris Dickinson, Gemma Arterton, Rhys Ifans, Djimon Hounsou...",
+        "userId":"622336bf1e95ff0a07eb35d9"
+    
+},
+{
+"_id":"62233c81e11751bd78bd5ef3",
+"imageUrl":"http://localhost:3000/images/Batman.jpg",
+"synopsis":"Deux années à arpenter les rues en tant que Batman et à insuffler la peur chez les criminels ont mené Bruce Wayne au coeur des ténèbres de Gotham. Avec seulement quelques alliés de confiance parmi le réseau de corruption de la ville composé de responsables et de personnalités de premier plan, le justicier solitaire s’est établi comme l’unique incarnation de la vengeance auprès de ses concitoyens. Quand un tueur vise l’élite de Gotham avec une série de machinations sadiques, une piste d’indices énigmatiques lance le plus grand détective du monde dans une enquête dans le milieu de la pègre, où il rencontre des personnages comme Catwoman, Le Pingouin, Carmine Falcone et Le Riddler. Alors que les preuves s’accumulent et que le plan du malfaiteur devient clair, Batman doit forger de nouvelles relations, démasquer le coupable et rétablir un peu de justice au milieu de l’abus de pouvoir et de corruption qui tourmente Gotham depuis longtemps.",
+"titre":"The Batman (2022)",
+"acteurs":"Ralph Fiennes, Harris Dickinson, Gemma Arterton, Rhys Ifans, Djimon Hounsou...",
+"userId":"622336bf1e95ff0a07eb35d9"
+},
+{
+    "_id":"62233c9ee11751bd78bd5ef8",
+    "imageUrl":"http://localhost:3000/images/vengence.jpg",
+    "synopsis":"Lorsqu'un tueur aux pouvoirs surnaturels traque un meurtrier à Bangkok, sa quête de vengeance se transforme en combat pour sauver le monde d'une menace ancienne",
+    "titre":"Vengeance aux poings (2022)",
+    "acteurs":"Iko Uwais, Lewis Tan, Jason Tobin, Katrina Grey,Rhatha Phongam...  ",
+    "userId":"622336bf1e95ff0a07eb35d9"
+},
+{
+    "_id":"62233cc7e11751bd78bd5efd",
+    "imageUrl":"http://localhost:3000/images/Myheros.jpg",
+    "synopsis":"Un mystérieux groupe terroriste appelé Humanize croit fermement à la théorie de l'apocalypse de la singularité des Quirks. Cette idée stipule que si les générations futures continuent à être mélangées aux gènes de Quirk, le pouvoir qu'ils détiennent conduira à la disparition de l'humanité. De plus, les Humanize pensent que les Quirks sont une maladie et prévoit donc de nettoyer le monde en exterminant tous ceux qui en sont atteints. Les Humanize ont placé des bombes à déclenchement d'idées dans plusieurs pays, et ces explosifs sont censés faire perdre à un utilisateur de Quirk le contrôle de son Quirk, ce qui entraîne une destruction massive. Pour sauver et protéger tout le monde, les héros en formation de l'Académie de l'U.A., s'unissent pour contrecarrer les efforts du mystérieux groupe.",
+    "titre":"My Hero Academia: World Heroes' Mission (2021)",
+    "acteurs":"Daiki Yamashita, Nobuhiko Okamoto, Yuki Kaji, Ryo Yoshizawa, Kazuya Nakai...",
+    "userId":"622336bf1e95ff0a07eb35d9"
+},
+
+{
+    "_id":"62233cece11751bd78bd5eff",
+    "imageUrl":"http://localhost:3000/images/eternels.jpg",
+    "synopsis":"Depuis l’aube de l’humanité, les Éternels, un groupe de héros venus des confins de l’univers, protègent la Terre. Lorsque les Déviants, des créatures monstrueuses que l’on croyait disparues depuis longtemps, réapparaissent mystérieusement, les Éternels sont à nouveau obligés de se réunir pour défendre l’humanité…",
+    "titre":"Les Éternels (2021)",
+    "acteurs":"Gemma Chan, Richard Madden, Angelina Jolie, Kumail Nanjiani, Barry Keoghan...",
+    "userId":"622336e81e95ff0a07eb35df"
+},
+{
+    "_id":"62233cffe11751bd78bd5f01",
+    "imageUrl":"http://localhost:3000/images/red.jpg",
+    "synopsis":"Un agent du FBI est forcé de faire équipe avec le voleur d'art le plus recherché de la planète pour coincer une insaisissable criminelle qui a toujours un coup d'avance.",
+    "titre":"Red Notice (2021)",
+    "acteurs":"Dwayne Johnson, Ryan Reynolds, Gal Gadot, Ritu Arya, Chris Diamantopoulos, Ivan Mbakop... ",
+    "userId":"622336e81e95ff0a07eb35df"
+},
+{
+    "_id":"62233d18e11751bd78bd5f03",
+    "imageUrl":"http://localhost:3000/images/lastMan.jpg",
+    "synopsis":"John Wood a laissé une civilisation brisée derrière lui, afin de retourner à ses racines dans la forêt, après qu'une pandémie de virus ait frappé le monde.",
+    "titre":"Last Man Down (2021)",
+    "acteurs":"Daniel Stisen, Olga Kent, Daniel Nehme, Stanislav Yanevski, Madeleine Vall, Natassia Malthe....",
+    "userId":"622336e81e95ff0a07eb35df"
+},
+{
+    "_id":"62233d2fe11751bd78bd5f05",
+    "imageUrl":"http://localhost:3000/images/vendom.jpg",
+    "synopsis":"Environ un an après avoir affronté Riot, Eddie Brock « cohabite » toujours avec le symbiote Venom. Alors qu’il tente de relancer sa carrière de journaliste d'investigation, Eddie se rend en prison pour interviewer le tueur en série Cletus Kasady. Il ignore que ce dernier est lui aussi l'hôte d'un symbiote, Carnage.",
+    "titre":"Venom : Let There Be Carnage (2021)",
+    "acteurs":"Tom Hardy, Woody Harrelson, Michelle Williams, Naomie Harris, Reid Scott....",
+    "userId":"622336e81e95ff0a07eb35df"
+},
+{
+    "_id":"62233e1ee11751bd78bd5f0a",
+    "imageUrl":"http://localhost:3000/images/matrix.jpg",
+    "synopsis":"Dix-huit ans après les événements de Matrix Revolutions, Thomas A. Anderson (alias Neo) ne se souvient plus de rien et mène une vie d'apparence normale à San Francisco. Il se rend régulièrement chez un psychiatre à qui il raconte ses rêves étranges et qui lui prescrit des pilules bleues. Après la réapparition de visages familiers et en quête de réponses, Neo repart à la recherche du lapin blanc. Il rencontre un certain Morpheus, qui lui offre le choix entre rester dans la Matrice et prendre son envol.",
+    "titre":"Matrix Resurrections (2021)",
+    "acteurs":"Keanu Reeves, Carrie-Anne Moss, Yahya Abdul-Mateen II, Jessica Henwick, Jonathan Groff, Neil Patrick Harris, Priyanka Chopra Jonas....",
+    "userId":"622336e81e95ff0a07eb35df"
+},
+{
+    "_id":"62233e47e11751bd78bd5f11",
+    "imageUrl":"http://localhost:3000/images/sosfantomes.jpg",
+    "synopsis":"Une mère célibataire et ses deux enfants s'installent dans une petite ville et découvrent peu à peu leur relation avec les chasseurs de fantômes et l'héritage légué par leur grand-père.",
+    "titre":"S.O.S. Fantômes : L’Héritage (2021)",
+    "acteurs":"Carrie Coon, Finn Wolfhard, Mckenna Grace, Paul Rudd, Logan Kim ...",
+    "userId":"622336e81e95ff0a07eb35df"
+},
+{
+    "_id":"62233e60e11751bd78bd5f13",
+    "imageUrl":"http://localhost:3000/images/Scream.jpg",
+    "synopsis":"Vingt-cinq ans après que la paisible ville de Woodsboro a été frappée par une série de meurtres violents, un nouveau tueur revêt le masque de Ghostface et prend pour cible un groupe d’adolescents. Il est déterminé à faire ressurgir les sombres secrets du passé.",
+    "titre":"Scream (2022)",
+    "acteurs":"Neve Campbell, Courteney Cox, David Arquette, Melissa Barrera, Jenna Ortega, Jack Quaid...",
+    "userId":"622336e81e95ff0a07eb35df"
+},
+{
+    "_id":"62233ecde7d1818a28bec6c5",
+    "imageUrl":"http://localhost:3000/images/Nightmare.jpg",
+    "synopsis":"Alors qu’il traverse une mauvaise passe, le charismatique Stanton Carlisle débarque dans une foire itinérante et parvient à s’attirer les bonnes grâces d’une voyante, Zeena et de son mari Pete, une ancienne gloire du mentalisme. S’initiant auprès d’eux, il voit là un moyen de décrocher son ticket pour le succès et décide d’utiliser ses nouveaux talents pour arnaquer l’élite de la bonne société new-yorkaise des années 40. Avec la vertueuse et fidèle Molly à ses côtés, Stanton se met à échafauder un plan pour escroquer un homme aussi puissant que dangereux. Il va recevoir l’aide d’une mystérieuse psychiatre qui pourrait bien se révéler la plus redoutable de ses adversaires.",
+    "titre":"Nightmare Alley (2021)",
+    "acteurs":"Bradley Cooper, Cate Blanchett, Rooney Mara, Willem Dafoe, Toni Collette, Richard Jenkins....",
+    "userId":"622336e81e95ff0a07eb35df"
+}, 
+{"_id":"62233e83e11751bd78bd5f17",
+"imageUrl":"http://localhost:3000/images/Encanto.jpg",
+"synopsis":"Dans un mystérieux endroit niché au cœur des montagnes de Colombie, la fantastique famille Madrigal habite une maison enchantée dans une cité pleine de vie, un endroit merveilleux appelé Encanto. L’Encanto a doté chacun des enfants de la famille d’une faculté magique allant d’une force surhumaine au pouvoir de guérison. Seule Mirabel n’a reçu aucun don particulier. Mais lorsque la magie de l’Encanto se trouve menacée, la seule enfant ordinaire de cette famille extraordinaire va peut-être se révéler leur unique espoir…",
+"titre":"Encanto, la fantastique famille Madrigal (2021)",
+"acteurs":"Stephanie Beatriz, María Cecilia Botero, John Leguizamo, Mauro Castillo, Angie Cepeda...",
+"userId":"622336e81e95ff0a07eb35df"
+}
+
+]
